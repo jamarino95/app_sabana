@@ -1,6 +1,6 @@
 dash==2.16.1
 pandas==1.2.4
 sentence_transformers==2.5.1
-xlrd
+openpyxl
 gunicorn
 dash-tools
